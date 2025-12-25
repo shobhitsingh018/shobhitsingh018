@@ -1,6 +1,12 @@
 # Shobhit Singh
-# 💫 About Me:
-I’m currently working on Developing a Neuro-BCI interface for real-time RC car control via RISC-V.<br>I’m looking to collaborate on Space-Tech , Robotics, Cybernetics, and Open-Source Silicon/Custom Processor Architecture.<br>I’m looking for help with Optimizing latency-critical ML inference for edge deployment (ESP32/RPi).<br>I’m currently learning Semiconductor Physics and Algorithmic Music Composition via Strudel.<br>Ask me about Embedded Automation, Cybernetics, and AI-Hardware Integration.<br>Fun fact I live-code my music in a REPL; DAWs are too slow for my workflow.
+## This is what I do:
+
+- **🔭 Current Work:** Developing a Neuro-BCI interface for real-time RC car control via RISC-V.
+- **👯 Collaboration:** Robotics, Cybernetics, and Open-Source Silicon/Processor Architecture.
+- **🤝 Edge AI:** Optimizing latency-critical ML inference for deployment on ESP32/RPi.
+- **🌱 Research:** Semiconductor Physics and Algorithmic Music Composition via Strudel.
+- **💬 Consult Me:** Embedded Automation, Cybernetics, and AI-Hardware Integration.
+- **⚡ Fun Fact:** I live-code my music in a REPL; DAWs are too slow for my workflow.
 
 
 ## 🌐 Socials:
