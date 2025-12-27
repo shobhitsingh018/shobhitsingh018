@@ -1,4 +1,3 @@
-# Shobhit Singh
 ## This is what I do:
 
 - **🔭 Current Work:** Developing a Neuro-BCI interface for real-time RC car control via RISC-V & Google Coral TPU.
